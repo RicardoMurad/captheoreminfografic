@@ -1,0 +1,1 @@
+# captheoreminfografic
