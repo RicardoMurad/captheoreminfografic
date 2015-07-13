@@ -1,0 +1,22 @@
+{
+  "name": "capchart",
+  "version": "0.0.1",
+  "authors": [
+    "(Ricardo Murad <ricardomurad@gmail.com>)"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "cap"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.ricardomurad.com/capchart",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
